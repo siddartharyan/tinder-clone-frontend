@@ -1,0 +1,13 @@
+.bottom_container {
+  position: fixed;
+  bottom: 3vh;
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.cover {
+  background-color: white;
+  border: 1px solid #e5e5e5;
+  padding: 3vw !important;
+}
